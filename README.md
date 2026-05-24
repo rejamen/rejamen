@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi 👋, I'm Reinaldo
 
-<!--
-**rejamen/rejamen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Python / backend engineer. My deepest experience is with **Odoo** —
+modules, integrations, migrations, deployments — but most of my work goes
+broader: Python backends, CLI tooling, FastAPI services, and developer experience.
 
-Here are some ideas to get you started:
+- 🛠 Currently shipping [**gith**](https://github.com/rejamen/gith) — a Typer-based Git CLI helper
+- 🏢 I also build under the [**@aidooit**](https://github.com/aidooit) org
+- 🎥 Technical content on YouTube: [**@aidooit**](https://www.youtube.com/@aidooit)
+- 🌐 Full bio + project gallery at [**rejamen.github.io**](https://rejamen.github.io)
+- 💼 [LinkedIn](https://linkedin.com/in/rejamen) · ☕ [Buy me a coffee](https://buymeacoffee.com/rejamen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Pinned projects ↓
+See the panels below, or visit [rejamen.github.io](https://rejamen.github.io) for the full list with descriptions.
